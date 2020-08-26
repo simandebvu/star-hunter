@@ -74,6 +74,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 - Microverse
+- Phaser.IO
 
 ## 📝 License
 

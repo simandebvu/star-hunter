@@ -1,33 +1,26 @@
 # PROJECT: STAR SHOOTER
 
-
 <br />
 <p align="center">
   <a href="https://github.com/simandebvu/javascript-unit-testing-practice">
-    <img src="js-image.png" alt="Logo" width="80" height="80">
+    <img src="tutorial_header.png" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">JEST : Testing </h3>
+  <h3 align="center">Phaser 3 game</h3>
 
   <p align="center">
-    Testing with JEST.
+    A simple implementation of a phaser 3 game.
     <br />
-    <a href="https://github.com/simandebvu/javascript-unit-testing-practice"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/simandebvu/star-hunter/"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/simandebvu/javascript-unit-testing-practice/issues/">Report Bug</a>
+    <a href="https://github.com/simandebvu/star-hunter/issues/">Report Bug</a>
     ·
-    <a href="https://github.com/simandebvu/javascript-unit-testing-practice/">Request Feature</a>
+    <a href="https://github.com/simandebvu/star-hunter/">Request Feature</a>
   </p>
 </p>
 
-> Writing tests for the following functions, and then make the tests pass!
-
-- `capitalize(string)` takes a string and returns that string with the first character capitalized.
-- `reverseString(string)` takes a string and returns it reversed.
-- A `calculator` object that contains the basic operations: `add, subtract, divide,` and `multiply`.
-- Caesar Cipher.
-- Array Analysis. Write a function that takes an array of numbers and returns an object with the following properties: `average, min, max,` and `length`.
+> Phaser is an HTML5 game framework which aims to help developers make powerful, cross-browser HTML5 games really quickly. It was created specifically to harness the benefits of modern browsers, both desktop and mobile. The only browser requirement is the support of the canvas tag.
 
 ![screenshot](./app-screenshot.gif)
 
@@ -50,7 +43,7 @@
 
 Clone the repo:
 
-`git clone https://github.com/simandebvu/javascript-unit-testing-practice.git`
+`git clone https://github.com/simandebvu/star-hunter.git`
 
 Inside the root folder of the project, install the node packages:
 

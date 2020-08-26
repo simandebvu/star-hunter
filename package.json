@@ -4,6 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "webpack-dev-server --open --mode development",
+    "build": "webpack --mode production",
+    "lint:js": "eslint \"src/**/*.{js,jsx}\" --quiet",
     "test": "jest"
   },
   "repository": {
@@ -11,7 +14,7 @@
     "url": "git+https://github.com/simandebvu/star-hunter.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "Shingirayi Mandebvu <shingim1@gmail.com>",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/simandebvu/star-hunter/issues"
